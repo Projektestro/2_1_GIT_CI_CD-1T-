@@ -8,3 +8,6 @@ commit 079043e6cfb12b36c2e6382bc3b2dbc06b73737d (HEAD -> develop)
 Author: Калугин Сергей Викторович <Kalugin@csnp.cea.gov.ru>
 Date:   Fri Nov 11 10:55:51 2022 +0300
 
+Информация о репозитории коллеги:
+1) ссылка на репозиторий: git@github.com:kkolyagin/course_data_engineer.git
+2) номер последнего коммита: commit 9ae7890aa9d6d2b5de49de32a9209e344c8a2937
